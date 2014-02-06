@@ -9,3 +9,6 @@ sudo dpkg -i libssl0.9.8_0.9.8o-7_armhf.deb
 sudo apt-get install openssl-blacklist openvpn-blacklist
 sudo dpkg -i openvpn_2.3.2-Scramblevpn-raspbian_armhf.deb
 
+
+==========================================================
+
